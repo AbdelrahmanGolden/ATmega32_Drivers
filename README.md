@@ -57,4 +57,5 @@ This project is part of my journey in mastering:
 
 ## 👨‍💻 Author
 **Abdelrahman Abdelkhaliq**
+
 Embedded Systems & ML Engineer
