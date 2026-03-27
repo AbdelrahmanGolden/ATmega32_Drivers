@@ -1,7 +1,7 @@
 # ATmega32_Drivers
 
 ## 📌 Overview
-This repository contains my full implementation of **ATmega32 microcontroller drivers** using **C and C++**, following a layered architecture approach:
+This repository contains my full implementation of **ATmega32 microcontroller drivers** using **C**, following a layered architecture approach:
 * **MCAL (Microcontroller Abstraction Layer)**
 * **HAL (Hardware Abstraction Layer)**
 * **LIB (Common utilities and macros)**
